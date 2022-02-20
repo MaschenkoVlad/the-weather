@@ -1,0 +1,27 @@
+{
+  "name": "the-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  },
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaschenkoVlad/the-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaschenkoVlad/the-weather/issues"
+  },
+  "homepage": "https://github.com/MaschenkoVlad/the-weather#readme"
+}
